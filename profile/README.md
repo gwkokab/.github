@@ -2,10 +2,12 @@
 
 🚀🔜 Coming Soon! 🚀🔜
 
-> [!IMPORTANT] Announcement 📢
+> [!IMPORTANT]
+> Announcement 📢
+> 
 > Welcome to GWKokab, a JAX based project for scientific computing 🤖💻
 > 
-> We're currently putting the finishing touches on something truly amazing, and we can't wait to share it with you 🤩! Although the code is currently private, we're excited to announce that it will be released shortly on PyPI, where you'll be able to access it and start using it for your own projects 📚💡.
+> We're currently putting the finishing touches on something truly amazing, and we can't wait to share it with you 🤩! Although the code is currently private, we're excited to announce that it will be released shortly on [PyPI](https://pypi.org/), where you'll be able to access it and start using it for your own research 📚💡.
 > 
 > Thank You for Your Interest! 🙏
 
